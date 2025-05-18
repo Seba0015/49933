@@ -1,0 +1,3 @@
+myVar = 10;
+output("El valor es:");
+output("10");

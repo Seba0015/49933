@@ -1,0 +1,9 @@
+switch(myVar) {
+    case 1:
+        output("Uno");
+        myVar = 2;
+    case 2:
+        output("Dos");
+    default:
+        output("Otro valor");
+}

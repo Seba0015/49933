@@ -1,0 +1,5 @@
+switch(x) {
+    case 1:  // No hay simpleStatement después del case
+    default:
+        output("Valor desconocido");
+}

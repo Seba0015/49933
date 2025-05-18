@@ -1,0 +1,2 @@
+myVar = 42  // Falta el punto y coma
+output("Hola");

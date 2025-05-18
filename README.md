@@ -1,4 +1,6 @@
 # 49933
+Los archivos estan subidos por upload porque no me dejaba haceder al repositorio con los comandos en el cmd
+
 Primero lo que vamos a hacer para ejecutar el programa es copiar alguna de las instrucciones que estan en los block de notas con el nombre de "Entrada" 
 ![Captura de pantalla 2025-05-18 201947](https://github.com/user-attachments/assets/51be87df-1c2a-443b-b450-cac23fdf62d3)
 ![Captura de pantalla 2025-05-18 201957](https://github.com/user-attachments/assets/69f47176-058e-4a80-8f8c-35a1b7decdde)
